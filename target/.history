@@ -1,0 +1,4 @@
+clean update compile
+compile
+run
+exit
